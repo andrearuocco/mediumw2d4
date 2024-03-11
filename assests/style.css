@@ -100,7 +100,7 @@ article h2{
 .boat ul li{
     padding-right: 10px;
     color: grey;
-    border-bottom: 1px solid grey;
+    border-bottom: 0px solid grey;
 }
 
 .boat ul li:hover{
